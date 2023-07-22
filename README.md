@@ -1,0 +1,2 @@
+# QRCODE
+keeping files secured
